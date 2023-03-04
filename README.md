@@ -1,5 +1,4 @@
 # Hola! :)  
-### Te platico un poco de mí 
 
 📝 Me llamo Gio, Desarrollador Fullstack en proceso! @giocompanytv_twitter
 📚  Algunas tecnologías y herramientas que uso en mi stack son:
