@@ -1,17 +1,31 @@
-# Hola! :)  
+## Gracias por pasar! :)  
 
-📝 Me llamo Gio, Desarrollador Fullstack en proceso! @giocompanytv_twitter
-📚  Algunas tecnologías y herramientas que uso en mi stack son:
+
+📝 Soy Gio, vivo en <strong>México</strong>, actualmente Sales Manager pero me estoy preparando como <strong>Desarrollador Fullstack</strong>.
+
+🤓 Me encanta leer, los videojuegos, y sobre todo aprender sobre <strong>tecnología</strong>, por el momento enfocado más en Frontend, pero también me encantan temas como Web3 y Ciberseguridad!
+
+📚  Algunas tecnologías y herramientas que estoy aprendiendo son:
 
 >Html
+
 >CSS
+
 >SASS
+
 >Javascript
+
+>Solidity
+
 >Git
+
 >GitHub
+
 >Terminal
 
-## te comparto los 5 comandos más importantes de la terminal 👇🏼
+
+
+#### Te comparto los 5 comandos más importantes de la terminal 👇🏼
 
 | Comando | Tarea a realizar |
 |-----|-------------------------|
@@ -20,6 +34,3 @@
 | rm | Eliminar archivos del directorio |
 | cat | Crear/imprimir archivos en la terminal |
 | mv | Mover archivos de un directorio a otro |
-
-
-Nos vemos pronto! 
