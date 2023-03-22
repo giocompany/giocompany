@@ -11,11 +11,11 @@
 
 >CSS
 
->SASS
+>Boostrap/SASS
 
 >Javascript
 
->Solidity
+>Linux
 
 >Git
 
