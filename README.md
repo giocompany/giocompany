@@ -1,27 +1,25 @@
 ## Gracias por pasar! :)  
 
 
-📝 Soy Gio, vivo en <strong>México</strong>, actualmente Sales Manager pero me estoy preparando como <strong>Desarrollador Fullstack</strong>.
+📝 Soy Gio, vivo en <strong>México</strong>, actualmente Sales Manager pero me estoy preparando como <strong>Cybersecurity Ethical Hacker</strong>.
 
-🤓 Me encanta leer, los videojuegos, y sobre todo aprender sobre <strong>tecnología</strong>, por el momento enfocado más en Frontend, pero también me encantan temas como Web3 y Ciberseguridad!
+🤓 Me encanta leer, los videojuegos, y sobre todo aprender sobre <strong>tecnología</strong>, por el momento enfocado en Ciberseguridad, pero también me encantan temas como Web3!
 
 📚  Algunas tecnologías y herramientas que estoy aprendiendo son:
 
 >Html
 
->CSS
+>Nerworking TCP/IP
 
->Boostrap/SASS
+>Linux
 
 >Javascript
 
->Linux
+>Python
 
 >Git
 
 >GitHub
-
->Terminal
 
 
 
